@@ -209,7 +209,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools and customizations specifically for Zsh.*
 
-* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of Zsh plugins usable with antigen, dotzsh, oh-my-zsh & prezto.
+* [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A list of Zsh plugins usable with antigen, dotzsh, oh-my-zsh, prezto, zplug and zgen.
 * [antigen](https://github.com/zsh-users/antigen) - A plugin manager for Zsh, inspired by oh-my-zsh and vundle
 * [dotzsh](https://github.com/dotphiles/dotzsh) - dotzsh strives to be platform and version independent, some functionality may be lost when running under older versions of Zsh, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OS's without problems.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A community-driven framework for managing your Zsh configuration
@@ -217,7 +217,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh
 * [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 * [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast Zsh prompt
-* [zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for Zsh inspired by antigen, but optimized for speed when starting a new shell. Can load oh-my-zsh compatible plugins and themes.
+* [zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for Zsh inspired by antigen, but optimized for speed when starting a new shell. Can load oh-my-zsh compatible plugins and themes. Zgen will automatically do git clones of the plugins and themes in your configuration.
+* [zplug](https://github.com/b4b4r07/zplug) - Zplug is a next-generation zsh framework for using plugins and themes.
 * [zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - Fish-like autosuggestions for Zsh
 * [zsh-dwim](https://github.com/oknowton/zsh-dwim) - Zsh do what I mean.
 * [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt) - Informative Git prompt for Zsh
